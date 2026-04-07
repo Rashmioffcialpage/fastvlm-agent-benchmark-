@@ -1,12 +1,17 @@
 [
   {
-    "image": "image1.jpg",
+    "image": "car.png",
     "question": "What is in the image?",
     "answer": "car"
   },
   {
-    "image": "image2.jpg",
-    "question": "Is it safe to cross?",
-    "answer": "no"
+    "image": "sample.png",
+    "question": "Describe the scene",
+    "answer": "scene"
+  },
+  {
+    "image": "image1.png",
+    "question": "What objects are visible?",
+    "answer": "objects"
   }
 ]
