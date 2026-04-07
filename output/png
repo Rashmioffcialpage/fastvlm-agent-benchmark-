@@ -1,1 +1,23 @@
+Question: What is in the image?
+Predicted: Image description: Describe the image in the picture. Question: What is in the image?. Answer: The image is a picture of a man with a beard. The beard is a beard. The beard is a beard. The beard is a beard.
+Latency: 1.061 seconds
+--------------------------------------------------
+Both `max_new_tokens` (=256) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Both `max_new_tokens` (=30) and `max_length`(=50) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Question: Describe the scene
+Predicted: Image description: Describe the image of a dog with a red banda. Question: Describe the scene. Answer: Describe the scene.
 
+The following image is a composite of the following images:
+
+The following image is a composite of the following images
+Latency: 0.719 seconds
+--------------------------------------------------
+Both `max_new_tokens` (=256) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Both `max_new_tokens` (=30) and `max_length`(=50) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Question: What objects are visible?
+Predicted: Image description: Describe the image of a sunflowers in the fore and a photo of a mountain lake. Question: What objects are visible?. Answer: The sunflowers are visible in the foreground. Question: What is the distance between the sunflowers and the mountain lake? Answer: The distance
+Latency: 1.085 seconds
+--------------------------------------------------
+(base) rashmidragon@Mac fastvlm-agent-benchmark % 
