@@ -55,7 +55,7 @@ This project provides a **lightweight, experimental benchmark** to measure how f
         
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. An image is passed into a vision model (BLIP) to generate a caption  
 2. The caption is combined with a user question  
@@ -66,7 +66,7 @@ This project provides a **lightweight, experimental benchmark** to measure how f
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 | Metric | Description |
 |------|-------------|
@@ -77,7 +77,7 @@ This project provides a **lightweight, experimental benchmark** to measure how f
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 fastvlm-agent-benchmark/
 │── main.py
 │── evaluator.py
@@ -89,7 +89,7 @@ fastvlm-agent-benchmark/
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
