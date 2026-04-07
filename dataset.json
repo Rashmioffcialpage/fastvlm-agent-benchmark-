@@ -1,1 +1,12 @@
-
+[
+  {
+    "image": "image1.jpg",
+    "question": "What is in the image?",
+    "answer": "car"
+  },
+  {
+    "image": "image2.jpg",
+    "question": "Is it safe to cross?",
+    "answer": "no"
+  }
+]
