@@ -124,7 +124,8 @@ Expand dataset with real-world scenarios
 Add visualization dashboards
 🧠 Research Motivation
 
-This project is part of a broader effort to build evaluation infrastructure for next-generation multimodal AI agents, focusing on:
+This project is part of a broader effort to build evaluation infrastructure
+for next-generation multimodal AI agents, focusing on:
 
 Real-time performance
 Reliability
