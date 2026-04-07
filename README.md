@@ -1,5 +1,5 @@
 # FastVLM-Agent Benchmark
-
+“I implemented a prototype benchmark that measures latency and reasoning in a multimodal pipeline using image captioning and language models.”
 ## Overview
 This project implements a prototype benchmark for evaluating multimodal AI agents.
 
