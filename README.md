@@ -116,20 +116,24 @@ Latency: 0.82 seconds
 ✅ Latency-aware evaluation system
 ✅ Simple benchmark for vision-language tasks
 ✅ Foundation for real-world agent evaluation
+
+
 🔬 Future Work
 Add advanced multimodal models (LLaVA, BLIP-2)
 Improve reasoning evaluation metrics
 Introduce adaptive model routing
 Expand dataset with real-world scenarios
 Add visualization dashboards
+
 🧠 Research Motivation
 
 This project is part of a broader effort to build evaluation infrastructure
 for next-generation multimodal AI agents, focusing on:
 
-Real-time performance
-Reliability
-Decision-making under constraints
+*Real-time performance
+*Reliability
+*Decision-making under constraints
+
 👩‍💻 Author
 
 Rashmi Thimmaraju
