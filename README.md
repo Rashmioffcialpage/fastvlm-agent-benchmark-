@@ -1,8 +1,8 @@
-# 🚀 FastVLM-Agent Benchmark
+#  FastVLM-Agent Benchmark
 
 <img width="1536" height="1024" alt="AI vision and human understanding challenges" src="https://github.com/user-attachments/assets/2fca7f14-dd5e-4899-a5eb-73b2a0c1f872" />
 
-## 🧠 Overview
+##  Overview
 
 FastVLM-Agent is a prototype benchmark framework designed to evaluate **multimodal AI agents** that process both images and text. The goal of this project is to study the **trade-off between latency (speed) and reasoning quality** in vision-language systems.
 
@@ -12,7 +12,7 @@ This project provides a **lightweight, experimental benchmark** to measure how f
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Evaluate **latency vs reasoning trade-offs**
 - Measure **end-to-end performance of multimodal agents**
