@@ -1,1 +1,3 @@
-
+Image → Simple Vision Model → Text Model → Answer
+                                 ↓
+                         Measure Latency
