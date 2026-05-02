@@ -4,7 +4,7 @@
 
 ##  Overview
 
-FastVLM-Agent is a prototype benchmark framework designed to evaluate **multimodal AI agents** that process both images and text. The goal of this project is to study the **trade-off between latency (speed) and reasoning quality** in vision-language systems.
+FastVLM-Agent is a prototype benchmark framework designed to evaluate **multimodal AI adyrtfihgoijpokoiyfuygoufyg that process both images and text. The goal of this project is to study the **trade-off between latency (speed) and reasoning quality** in vision-language systems.
 
 Modern multimodal models such as GPT-4 Vision and Claude demonstrate strong reasoning capabilities but often suffer from **high inference latency**, making them less suitable for real-time applications.
 
